@@ -1,0 +1,103 @@
+body {
+    font-family: sans-serif;
+    background-color: #1142AA;
+   padding: 0%;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+}
+
+main{
+    padding: 0%;
+    margin: 0%;
+}
+
+.button {
+    margin: 15px;
+    float: right;
+    background-color: #FFFD00;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    display: flex;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+    
+}
+
+.info {
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display:flex;
+}
+
+article {
+    background-color: white;
+    padding: ;
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #FD0006;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: white;
+    display: flex;
+    padding: ;
+    margin: 0%;
+}
+
+footer a {
+    margin: 10px;
+}
+
+footer p {
+    font-size: 24px;
+}
+.chubrik {
+    width: 100%;
+    margin: 0%;
+}
+.shishka {
+    border: 4px solid black;
+    border-radius: 10px;
+    height: 80px;
+}
